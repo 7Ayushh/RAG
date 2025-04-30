@@ -1,0 +1,53 @@
+{
+    "Eligibility": {
+        "Undergraduate Students": {
+            "Eligible Semesters": "Autumn (July-December), Spring (January to June)",
+            "Medical Entitlement": "Entitled to treatment available at IITB Hospital while present on campus.",
+            "Graduation": "Medical entitlement ceases five days after graduation or the last date of vacating the hostel."
+        },
+        "Postgraduate Students": {
+            "Eligible Semesters": "Autumn (July-December), Spring (January to June)",
+            "Medical Entitlement": "Entitled to treatment available at IITB Hospital while present on campus.",
+            "Graduation": "Medical entitlement ceases five days after graduation or the last date of vacating the hostel."
+        },
+        "PhD Scholars": {
+            "Duration of Benefits": "Maximum of 06 years or till ten days after PhD viva-voce if staying on campus.",
+            "Family": "Spouse and children can avail IITB hospital outpatient facility."
+        },
+        "Post-Doctoral Scholars": {
+            "Medical Entitlement": "Only outpatient facility."
+        }
+    },
+    "Outstation Medical Benefits": {
+        "General Rule": "No outstation medical treatment is admissible except for accidental treatment."
+    },
+    "Reimbursement": {
+        "Eligibility": "Students registered at IITB Hospital with a medical file issued after vaccination verification.",
+        "Covered Expenses": [
+            "Medicines purchased from the market.",
+            "Pathology/radiology charges incurred in an empanelled facility.",
+            "Indoor treatment on the advice of IIT Bombay Hospital."
+        ],
+        "Ceiling": "Up to Rs. 2 lakhs per semester.",
+        "Exclusions": [
+            "Dentistry",
+            "Infertility",
+            "Maternity",
+            "Cosmetology",
+            "Substance abuse",
+            "Obesity",
+            "Joint replacement",
+            "Organ transplant"
+        ],
+        "Accidental Injury": {
+            "Coverage": "Hospitalization in the general ward category, with a maximum reimbursement of 2 lakhs per incident."
+        }
+    },
+    "Medical Advance": {
+        "Eligibility": "Up to Rs. 1 lakh for in-patient treatment in an empanelled hospital.",
+        "Application Process": "Email application to the incharge CMO with IITB Hospital reference and treating hospital's estimate."
+    },
+    "Additional Points": {
+        "Dean's Financial Powers": "Dean (SA) can recommend additional reimbursement of INR 5 Lakhs for eligible claims, considered a loan to be settled before obtaining a degree."
+    }
+}
